@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-10-10T07:04:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2021-07-17T16:54:16.622010254</dc:date><meta:editing-cycles>7</meta:editing-cycles><meta:editing-duration>PT39M12S</meta:editing-duration><meta:generator>LibreOffice/7.1.4.2$Linux_x86 LibreOffice_project/10$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="28" meta:word-count="157" meta:character-count="1026" meta:non-whitespace-character-count="764"/><meta:user-defined meta:name="KSOProductBuildVer">3082-11.1.0.8392</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2019-10-10T07:04:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2021-07-17T16:58:41.950100214</dc:date><meta:editing-cycles>8</meta:editing-cycles><meta:editing-duration>PT43M37S</meta:editing-duration><meta:generator>LibreOffice/7.1.4.2$Linux_x86 LibreOffice_project/10$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="37" meta:word-count="157" meta:character-count="1027" meta:non-whitespace-character-count="764"/><meta:user-defined meta:name="KSOProductBuildVer">3082-11.1.0.8392</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">11957</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">20140</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24363</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">9867</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">4217</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">17695</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3586</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">23650</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">11957</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">20140</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">24361</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21823</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">30006</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -304,21 +304,18 @@
    <style:text-properties style:font-name="Ubuntu Mono" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Ubuntu Mono1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties style:font-name="Ubuntu Mono" fo:font-size="12pt" officeooo:rsid="000a1ed1" style:font-size-asian="12pt" style:font-name-complex="Ubuntu Mono1" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
    <style:text-properties style:font-name="Ubuntu Mono" fo:font-size="12pt" fo:language="es" fo:country="none" style:font-size-asian="12pt" style:font-name-complex="Ubuntu Mono1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="T4" style:family="text">
+  <style:style style:name="T3" style:family="text">
    <style:text-properties style:font-name="Ubuntu Mono" fo:language="es" fo:country="none" style:font-name-complex="Ubuntu Mono1"/>
   </style:style>
-  <style:style style:name="T5" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties style:font-name="Ubuntu Mono" fo:language="es" fo:country="none" officeooo:rsid="0009222a" style:font-name-complex="Ubuntu Mono1"/>
   </style:style>
-  <style:style style:name="T6" style:family="text">
+  <style:style style:name="T5" style:family="text">
    <style:text-properties fo:font-size="11pt" fo:language="es" fo:country="none" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T7" style:family="text">
+  <style:style style:name="T6" style:family="text">
    <style:text-properties fo:font-family="&apos;Ubuntu Mono&apos;" style:font-pitch="fixed" fo:font-size="36pt" fo:font-weight="bold" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="gr1" style:family="graphic">
@@ -345,80 +342,95 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P1"><text:span text:style-name="T6">Ritmos básicos de batería en compás de cuatro cuartos (4/4)</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T5">Ritmos básicos de batería en compás de cuatro cuartos (4/4)</text:span></text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="Standard"><draw:frame text:anchor-type="paragraph" draw:z-index="0" draw:name="Forma1" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.187cm" svg:y="0.339cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">1</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">1</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="1" draw:name="Forma1_0" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.187cm" svg:y="0.339cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">1</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">1</text:span></text:p>
      </draw:text-box>
-    </draw:frame><text:span text:style-name="T1"><text:s text:c="6"/>1 <text:s text:c="2"/>2 <text:s text:c="2"/>3 <text:s text:c="2"/>4 <text:s text:c="4"/></text:span><text:span text:style-name="T3"><text:s text:c="5"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-------O------|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span></text:p>
+    </draw:frame><text:span text:style-name="T1"><text:s text:c="6"/>1 <text:s text:c="2"/>2 <text:s text:c="2"/>3 <text:s text:c="2"/>4 <text:s text:c="4"/></text:span><text:span text:style-name="T2"><text:s text:c="5"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-------O------|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
    <text:p text:style-name="P3"><draw:frame text:anchor-type="paragraph" draw:z-index="3" draw:name="Forma1_2" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.187cm" svg:y="0.372cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">2</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">2</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="3"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O---------O----|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="3"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O---------O----|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
    <text:p text:style-name="P3"><draw:frame text:anchor-type="paragraph" draw:z-index="2" draw:name="Forma1_1" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.187cm" svg:y="0.418cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">3</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">3</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O--------|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">B |O-</text:span><text:span text:style-name="T3">O</text:span><text:span text:style-name="T1">---O--------|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O--------|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
    <text:p text:style-name="P3"><draw:frame text:anchor-type="paragraph" draw:z-index="7" draw:name="Forma1_6" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.168cm" svg:y="0.385cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">5</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">5</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O---O----|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">B |O-</text:span><text:span text:style-name="T3">O</text:span><text:span text:style-name="T1">---O---O----|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O---O----|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
    <text:p text:style-name="P3"><draw:frame text:anchor-type="paragraph" draw:z-index="6" draw:name="Forma1_5" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-0.206cm" svg:y="0.372cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">6</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">6</text:span></text:p>
      </draw:text-box>
     </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="5" draw:name="Forma1_4" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-1.549cm" svg:y="0.372cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">1</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">1</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O-O------|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">B |O-</text:span><text:span text:style-name="T3">O</text:span><text:span text:style-name="T1">---O-O------|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-----O-O------|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span></text:p>
    <text:p text:style-name="P4"><draw:frame text:anchor-type="paragraph" draw:z-index="4" draw:name="Forma1_3" draw:style-name="gr1" draw:text-style-name="P11" svg:width="1.174cm" svg:height="1.273cm" svg:x="-1.662cm" svg:y="0.062cm">
      <draw:text-box>
-      <text:p text:style-name="P10"><text:span text:style-name="T7">1</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">1</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-------O-O----|</text:span><text:span text:style-name="T3"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">B |O-</text:span><text:span text:style-name="T3">O</text:span><text:span text:style-name="T1">-----O-O----|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>S |----o-------o--|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T1"><text:s text:c="4"/>B |O-------O-O----|</text:span><text:span text:style-name="T2"> <text:s text:c="4"/></text:span><text:span text:style-name="T1">B |O-</text:span><text:span text:style-name="T2">O</text:span><text:span text:style-name="T1">-----O-O----|</text:span></text:p>
    <text:p text:style-name="P2"/>
-   <text:p text:style-name="P8"><text:span text:style-name="T5">Más doble bombo</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/>S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/>B |O-O-----O------|</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="T3"><text:s text:c="4"/>S |----o-------o--|</text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="T3"><text:s text:c="4"/>B |O-O-------O----|</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T4"/></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T4"/></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T4"/></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="T4">Arreglo de tablaturas por Wachín (wachin.id@gmail.com</text:span><text:bookmark text:name="_GoBack"/><text:span text:style-name="T4">)</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T4">Más doble bombo</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2"><text:s text:c="4"/>S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2"><text:s text:c="4"/>B |O-O-----O------|</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2"><text:s text:c="4"/>H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"><text:s text:c="4"/>S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"><text:s text:c="4"/>B |O-O-------O----|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"><text:s/>H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">B |O-O---O--------|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">B |O-O---O---O----|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">H |x-x-x-x-x-x-x-x|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">S |----o-------o--|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">B |O-O---O-O------|</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T3">Arreglo de tablaturas por Wachín (wachin.id@gmail.com</text:span><text:bookmark text:name="_GoBack"/><text:span text:style-name="T3">)</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P5"/>
   </office:text>
